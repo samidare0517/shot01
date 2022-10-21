@@ -33,6 +33,9 @@ private:
 
 	int m_handle;
 
+	// ショットの発射間隔
+	int m_shotInterval;
+
 	// 表示位置
 	Vec2 m_pos;
 	// 移動
